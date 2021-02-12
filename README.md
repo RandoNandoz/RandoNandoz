@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RandoNandoz
+- 👀 I’m interested in programming & open-source stuff.
+- 🌱 I’m currently working on a lot of online school
+- 💞️ I’m looking to collaborate on... Anything!
+- 📫 Reach me at randyzhu@protonmail.com
