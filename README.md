@@ -16,5 +16,6 @@ Previous, I have worked at Teck Resources, soon to be Anglo Teck group, working 
 
 I am a teaching assistant at UBC, teaching students the basic building blocks[^1] of software[^2]. The course covers some microarchitecture, function calling convetions, and multithreading.
 
-[^1] you could go down to the transistor level, of course, but I am no physicist
-[^2] not computation, see https://en.wikipedia.org/wiki/Theory_of_computation
+[^1]: you could go down to the transistor level, of course, but I am no physicist
+[^2]: not computation, see https://en.wikipedia.org/wiki/Theory_of_computation
+
