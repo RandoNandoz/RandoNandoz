@@ -12,7 +12,8 @@ Previously, I held an Natural Sciences and Engineering Research Council of Canad
 
 Previous, I have worked at Teck Resources, soon to be Anglo Teck group, working on various dashboards, Power Platform apps and automations to accelerate the work of business and engineering teams. 
 
-### Teaching students in an [introductory computer systems course](https://vancouver.calendar.ubc.ca/course-descriptions/subject/cpscv)
+### Teaching students in an [introductory computer systems course](https://www.cs.ubc.ca/course-section/cpsc-213-102-2023w)
+
 
 I am a teaching assistant at UBC, teaching students the basic building blocks[^1] of software[^2]. The course covers some microarchitecture, function calling convetions, and multithreading.
 
