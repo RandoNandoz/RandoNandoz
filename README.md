@@ -1,14 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: single 
-header:
-    image: "/assets/glacier-vistas-fullsize.jpeg"
-    
-author_profile: true
----
-
 ## Greetings!
 
 Hello, I am Randy Zhu, a student at [The University of British Columbia, Vancouver Campus (UBC)](https://ubc.ca). I am doing a few things at once (as one would) right now:
