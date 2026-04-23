@@ -2,6 +2,8 @@
 
 Hello, I am Randy Zhu, a student at [The University of British Columbia (UBC)](https://ubc.ca).
 
+I am currently working on porting an iSCSI Initiator to macOS using DriverKit instead of IOKit.
+
 Previously I...
 
 - Taught students in an intro to computer systems (CPSC 213) and intro to software engineering class (CPSC 210) at UBC as a teaching assistant. You can find some slides for the systems course course here: [randyzhu.com/cpsc213](https://randyzhu.com/cpsc213)
